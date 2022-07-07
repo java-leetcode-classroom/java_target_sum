@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-07-07T14:28:59" hostname="yuanyu-ubuntu" time="0.05">
+  <properties/>
+  <testcase name="findTargetSumWaysExample1()" classname="SolutionTest" time="0.031"/>
+  <testcase name="findTargetSumWaysExample2()" classname="SolutionTest" time="0.001"/>
+  <testcase name="findTargetSumWaysExample3()" classname="SolutionTest" time="0.001"/>
+  <testcase name="findTargetSumWaysDFSExample1()" classname="SolutionTest" time="0.002"/>
+  <testcase name="findTargetSumWaysDFSExample2()" classname="SolutionTest" time="0.002"/>
+  <testcase name="findTargetSumWaysDFSExample3()" classname="SolutionTest" time="0.001"/>
+  <testcase name="findTargetSumWaysV1Example1()" classname="SolutionTest" time="0.001"/>
+  <testcase name="findTargetSumWaysV1Example2()" classname="SolutionTest" time="0.001"/>
+  <testcase name="findTargetSumWaysV1Example3()" classname="SolutionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
